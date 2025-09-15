@@ -2,6 +2,7 @@
 
 ## Get Started
 
+* Markdown on [Github](<https://github.com/mattcone/markdown-guide>)
 * Visit the markdown page [omline](<https://www.markdownguide.org/getting-started>)  
   * [Basic Syntax](<https://www.markdownguide.org/basic-syntax/>)
 
@@ -13,12 +14,8 @@
 
 ### Horizontal Rules
 
-three or more stars, hyphrns or underscores.
+three or more stars, hyphens or underscores.
 ***
----
-___
-
-
 
 ### An example reference Link
 
@@ -42,5 +39,20 @@ By not known - Original publication: not knownImmediate source: https://nerdalic
 
 <hr style="height: 20px; color:blue"/>
 
+### Blockquotes  
 
-Back to [Docs](<../Readme.md>)
+Use > in front of a text to make it a blockquote.
+
+> This is a blockquote.
+
+### Blockquotes with a title
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+
+[Back to Docs](<../Readme.md>)
